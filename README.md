@@ -34,7 +34,7 @@
 
 2017-8-14
 
-上传文件名：WebComet
+上传文件名：Distributed-architecture
 
 内容：服务器推技术的实现，用了两种方式，一个是ajax长轮询，一个是pushlet框架。还写了一个普通的请求，来测试时间。还写了一个拓展的，Socket接受数据，并推送到客户端上，Socket服务器就没贴上来。在使用pushlet框架的时候 函数 onData() 在一个浏览器里面，只能有一处。也就是说，一个页面只能有一个onData来接受函数
 
