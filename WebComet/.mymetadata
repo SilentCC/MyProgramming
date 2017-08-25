@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebComet"
+  id="myeclipse.1503653140454"
+  context-root="/WebComet"
+  j2ee-spec="5.0"
+  archive="WebComet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
